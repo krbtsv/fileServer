@@ -65,7 +65,7 @@ C:\Files
 }
 ```
 Успешный ответ:
-```json
+```bash
 {
    Call completed
 }
