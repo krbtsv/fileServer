@@ -1,0 +1,43 @@
+# Go binaries
+*.exe
+*.exe~
+*.out
+*.so
+*.dylib
+
+# Dependency directories
+/vendor/
+Gopkg.lock
+Gopkg.toml
+glide.lock
+glide.yaml
+go.sum
+
+# Coverage reports
+*.out
+*.test
+*.cov
+
+# Build directories
+/build/
+bin/
+obj/
+out/
+dist/
+
+# IDE specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+*.tmp
+
+# Go modules
+/go.mod
+/go.sum
